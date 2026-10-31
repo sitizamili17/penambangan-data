@@ -6,7 +6,7 @@ Program Studi Ilmu Komputer, FMIPA, Universitas Negeri Medan.
 Prototipe irigasi cerdas yang memutuskan **Siram** atau **Tunda Siram** berdasarkan kondisi tanah, kondisi udara, dan prakiraan peluang hujan per jam dari Open-Meteo (Kota Medan).
 
 ## Tim
-- Siti Haliza Zamili (4241250019) – Ketua
+- Siti Haliza Zamili (4241250019)
 - Khodotun Hadawiyah Margolang (4242250002)
 - Hafizham Mufti Siregar (4243250020)
 - Dosen Pendamping: Dedy Kiswanto
